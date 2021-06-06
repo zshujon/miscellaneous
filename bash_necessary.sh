@@ -1,12 +1,59 @@
 # which bash
 #! /bin bash
 
+# built in function
+# date
+
+# find
+# which date
+
+# current dir
+# pwd
+
+# change dir
+# cd 
+
+# psecial dir
+# .     # current dir
+# ..    # parent dir
+
+# content in dir
+# ls
+
+# alwasy bring home dir /home/username
+# ~
+# go back to the dir previously in
+# cd -
+
+# for help
+# ls --help
+
+# move rename
+# mv
+
+# remove
+# rm -rf
+
+# nnew dir
+# mkdir
+
+# copy
+# cp
+
 # echo/print command
 # echo Hello World...!
 
 # Variables : upper case (convention), with A-Z, 0-9, _
 # NAME="Zakir" # note no space before of after the = sign
 # echo "My name is $NAME"
+
+# to > from < pipe |  
+
+# clean terminal
+# ctrl l
+
+# env variables
+# echo $PATH
 
 # User input
 # read -p "Enter your name: " Name
